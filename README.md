@@ -2,7 +2,7 @@
 Website
 🌍 Jihaz369 Official Website
 https://jihaz369.com
-
+🎬 YouTube Channel https://youtube.com/@jihaz369/
 GitHub
 🐙 GitHub Profile
 https://github.com/jihaz369
@@ -36,5 +36,7 @@ Stay connected for new releases, tutorials, and electronics projects.
 https://jihaz369.com
 🐙 GitHub
 https://github.com/jihaz369
+🎬 YouTube channel https://youtube.com/@jihaz369/
+GitHub
 
 SmartLab is developed by Jihaz369 with the mission of creating an open-source AI-powered electronics laboratory assistant for engineers, students, and makers worldwide.
